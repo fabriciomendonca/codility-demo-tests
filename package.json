@@ -1,0 +1,16 @@
+{
+  "name": "codility-tests",
+  "version": "1.0.0",
+  "description": "My codility tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciomendonca/codility-demo-tests.git"
+  },
+  "author": "Fabricio Mendonca",
+  "license": "MIT",
+  "homepage": "https://github.com/fabriciomendonca/codility-demo-tests#readme"
+}
