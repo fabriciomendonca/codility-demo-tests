@@ -7,3 +7,4 @@ Some Codility tests in Javascript
 * BinaryGap
 * CyclicRotation
 * FrogJmp
+* TapeEquilibrium
